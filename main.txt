@@ -1,2 +1,7 @@
-# git_gui
-# Arsenij
+<<<<<<< HEAD
+=======
+razmatesha
+gg
+
+>>>>>>> Lastname
+
